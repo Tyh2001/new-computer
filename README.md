@@ -20,4 +20,4 @@
 
 ## 娱乐
 
-- [wegame](https://www.wegame.com.cn/act/wegame/wegame20230731/?adtag=bd)
+- [wegame](https://www.wegame.com.cn/)
