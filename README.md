@@ -9,6 +9,7 @@
 - [geek](https://geekuninstaller.com/download)
 - [7-zip](https://www.7-zip.org/)
 - [百度网盘](https://pan.baidu.com/download#win)
+- [手心输入法](http://www.xinshuru.com/index.html?p=win)
 
 ## 开发工具
 
